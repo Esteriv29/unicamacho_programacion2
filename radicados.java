@@ -14,7 +14,6 @@ public class radicados {
         }
         ciclos++;
     }
-
         if (ciclos >= MAX_CICLOS) {
         System.out.println("Proceso detenido: se excedió el número máximo de iteraciones.");
     } else {
