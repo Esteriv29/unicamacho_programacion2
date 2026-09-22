@@ -12,7 +12,6 @@ public class principal {
                 }
                 totalEntregados += lote;
             }
-        }
 
         System.out.println(totalEntregados);
     }
