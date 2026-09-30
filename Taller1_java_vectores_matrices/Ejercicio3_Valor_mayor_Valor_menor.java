@@ -4,7 +4,6 @@ public class Ejercicio3_Valor_mayor_Valor_menor {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
         System.out.print("Ingrese el tamaño del vector (N): ");
         int n = scanner.nextInt();
 
